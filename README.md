@@ -1,5 +1,12 @@
 ### Hi there 👋
- 🔭 I’m currently working on front end development.
+ I'm currently taking on freelance work. What is noteworthy in my career is the development of fresh and popular websites. I am always sensitive to modern technologies and open to new things. What is unique about my way of working is that I understand and embody the needs of customers and be creative on their own. It is my greatest pleasure to build trust with all my customers. So my goal is to be the perfect customer-oriented developer.
+
+🤔 I can accomplish with the following:
+	•  Front-End Development with React & Angular & Vue
+	•  Back-End Development with Python & Node & PHP
+	•  UX/UI Development
+ Hybrid Mobile App Development![image](https://user-images.githubusercontent.com/80674675/114969259-538dd400-9e78-11eb-9ab9-a010c48f1ac8.png)
+
 <!--
 **smiley717/smiley717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
