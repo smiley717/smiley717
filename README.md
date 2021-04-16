@@ -1,4 +1,4 @@
-### Hi there 👋
+### Thank you for visiting my Git 👋
  I'm currently taking on freelance work. What is noteworthy in my career is the development of fresh and popular websites. I am always sensitive to modern technologies and open to new things. What is unique about my way of working is that I understand and embody the needs of customers and be creative on their own. It is my greatest pleasure to build trust with all my customers. So my goal is to be the perfect customer-oriented developer.
 
 <!--
