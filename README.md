@@ -11,15 +11,11 @@
 ![Smiley Dev's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smiley717&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)
 
 ## About me
-* Front-End Development with React & Angular & Vue
-
-* Back-End Development with Python & Node & PHP
-
-* UX/UI Development
-
-* I have experience working as an individual developer and a project manager in many projects providing me with the skills of communicating with clients to satisfy their needs.
-
-* My experience tells everybody who I am, what I can do for your project.
+- Front-End Development with React & Angular & Vue
+- Back-End Development with Python & Node & PHP
+- UX/UI Development
+- I have experience working as an individual developer and a project manager in many projects providing me with the skills of communicating with clients to satisfy their needs.
+- My experience tells everybody who I am, what I can do for your project.
 
 
 <!--
