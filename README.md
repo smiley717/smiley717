@@ -22,7 +22,7 @@ I'm a software develoepr, a passionate learner and an aspiring content creator. 
 ### 🚧Current Projects
 - 🤑 Payment Integration
 - 🔗 Third Party Api Integration
-- 🎨 React
+- 🎨 React 𒑰 Material UI 𒑰 Semantic UI 𒑰 Next 𒑰 Gatsby
 - 💪 Node 𒑰 Django 𒑰 Serverless 𒑰 PostgreSQL
 
 ### 🌱What I'm Learning
