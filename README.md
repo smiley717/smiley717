@@ -14,15 +14,16 @@ I'm a software developer, a passionate learner and an aspiring content creator. 
 ### 👨🏽‍💻Tech Stack
 
 - 🗣 C++ 𒑰 C# 𒑰 TypeScript 𒑰 Python
-- 🎒 NodeJS 𒑰 Express 𒑰 Socket.IO 𒑰 Django 𒑰 Flask 𒑰 Java Spring Boot
+- 🎒 NodeJS 𒑰 Express 𒑰 NestJS 𒑰 Socket.IO 𒑰 Django 𒑰 Flask 𒑰 Java Spring Boot
 - 🥇 React 𒑰 Vue 𒑰 Figma 𒑰 Adob XD
+- 🏹 Chrome extension with React
 - ☁ AWS 𒑰 Firebase 𒑰 Git 𒑰 Slack 𒑰 Jira
 - ♽ Docker 𒑰 Jenkins 𒑰 Jetbrain Tools
 
 ### 🚧Current Projects
 - 🤑 Payment Integration
 - 🔗 Third Party Api Integration
-- 🎨 React 𒑰 Material UI 𒑰 Semantic UI 𒑰 Next 𒑰 Gatsby
+- 🎨 React 𒑰 Material UI 𒑰 Semantic UI 𒑰 Styled Component 𒑰 Next 𒑰 Gatsby
 - 💪 Node 𒑰 Django 𒑰 Serverless 𒑰 PostgreSQL
 
 ### 🌱What I'm Learning
