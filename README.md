@@ -13,7 +13,7 @@ I'm a software developer, a passionate learner and an aspiring content creator. 
 
 ### 👨🏽‍💻Tech Stack
 
-- 🗣 C++ 𒑰 C# 𒑰 TypeScript 𒑰 Python
+- 🗣 C++ 𒑰 C# 𒑰 TypeScript 𒑰 Python 𒑰 Java
 - 🎒 NodeJS 𒑰 Express 𒑰 NestJS 𒑰 Socket.IO 𒑰 Django 𒑰 Flask 𒑰 Java Spring Boot
 - 🥇 React 𒑰 Vue 𒑰 Figma 𒑰 Adob XD
 - 😇 NFT 𒑰 Solidity 𒑰 Web3.js
