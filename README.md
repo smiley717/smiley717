@@ -26,6 +26,8 @@ I'm a software engineer, a passionate learner and an aspiring content creator. W
 - 🔗 Third Party Api Integration
 - 🎨 React 𒑰 Material UI 𒑰 Semantic UI 𒑰 Styled Component 𒑰 Next 𒑰 Gatsby
 - 💪 Node 𒑰 Django 𒑰 Serverless 𒑰 PostgreSQL
+- 🧱 AWS Solution Architect (Lucid chart / serverless)
+- 🕍 Building eco-system on Near Blockchain Network
 
 ### 🌱What I'm Learning
 - 🛠 AWS Cloud Serivces 𒑰 Serverless 𒑰 Terraform
