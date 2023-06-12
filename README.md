@@ -1,10 +1,10 @@
-## Welcome to Me!
+## Welcome, 🎯 you are in the right way! 🎯
 
 ![Smiley Dev's github stats](https://github-readme-stats.vercel.app/api?username=smiley717&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=tokyonight)
 ![Smiley Dev's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smiley717&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)
 
 ### 🙋🏽‍♂️About Me
-I am a highly motivated and passionate Full stack developer at heart who enjoys being involved in all aspects of building products from business strategy to product design and engineering. I believe in life-long learning and clean, maintainable and discoverable code. I love using technology and working on issues that make a positive change in people’s lives. I’m well organized, responsible and respectful with my duties and the people around me, detail oriented, and have completed courses for Time Management, Project Management, Soft Skills, Active Listening, Personal Growth and motivated to new technologies and learning. Experienced in the design, build, support and deployment of software applications and IT Infrastructure with over 8 years practicing Cloud Computing, DevOps, Security, Networking & Quality Engineering.
+I am a highly motivated and passionate Full stack developer at heart who enjoys being involved in all aspects of building products from business strategy to product design and engineering. I believe in life-long learning and clean, maintainable and discoverable code. I love using technology and working on issues that make a positive change in people’s lives. I’m well organized, responsible and respectful with my duties and the people around me, detail oriented, and have completed courses for Time Management, Project Management, Soft Skills, Active Listening, Personal Growth and motivated to new technologies and learning. Experienced in the design, build, support and deployment of software applications and IT Infrastructure with over 8 years practicing Cloud Computing, DevOps, Security, Networking & Quality Engineering. I love dancing on my keyboard everyday while smiling. 💃
 
 ### 👨🏽‍💻Tech Stack
 
