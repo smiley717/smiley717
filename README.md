@@ -6,7 +6,7 @@ I am a highly motivated and passionate Full stack developer at heart who enjoys 
 ### 👨🏽‍💻Tech Stack
 
 - 🛠 AWS Cloud Serivces 𒑰 Serverless 𒑰 Terraform 𒑰 DevOps
-- 🗣 C++ 𒑰 C# 𒑰 TypeScript 𒑰 Python 𒑰 Java
+- 🗣 C++ 𒑰 C# 𒑰 TypeScript 𒑰 Python 𒑰 Java 𒑰 Go
 - 🎒 NodeJS 𒑰 Express 𒑰 NestJS 𒑰 Socket.IO 𒑰 Django 𒑰 Flask 𒑰 Java Spring Boot
 - 🥇 React 𒑰 Vue 𒑰 Figma 𒑰 Adob XD
 - 😇 NFT 𒑰 Solidity 𒑰 Web3.js 𒑰 Rust 𒑰 Near
