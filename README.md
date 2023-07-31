@@ -1,5 +1,7 @@
 ## Welcome, 🎯 you are in the right way! 🎯
 
+![Hello there](https://media3.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
+
 ### 🙋🏽‍♂️About Me
 I am a highly motivated and passionate Full stack developer at heart who enjoys being involved in all aspects of building products from business strategy to product design and engineering. I believe in life-long learning and clean, maintainable and discoverable code. I love using technology and working on issues that make a positive change in people’s lives. I’m well organized, responsible and respectful with my duties and the people around me, detail oriented, and have completed courses for Time Management, Project Management, Soft Skills, Active Listening, Personal Growth and motivated to new technologies and learning. Experienced in the design, build, support and deployment of software applications and IT Infrastructure with over 8 years practicing Cloud Computing, DevOps, Security, Networking & Quality Engineering. I love dancing on my keyboard everyday while smiling. 💃
 
